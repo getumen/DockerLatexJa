@@ -11,6 +11,7 @@ and wait a hour
 
 
 Usage
+-----
 ```
 cd example
 ./../cmd.sh platex test
