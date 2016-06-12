@@ -1,6 +1,6 @@
 FROM ubuntu:xenial
 
-MAINTAINER getumen <>
+MAINTAINER getumen <https://github.com/getumen/docker_latex_ja>
 ENV DEBIAN_FRONTEND noninteractive
 
 RUN echo "deb http://jp.archive.ubuntu.com/ubuntu/ xenial main restricted\
