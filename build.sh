@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker -t latex:latex .
+docker build -t latex:latex .
