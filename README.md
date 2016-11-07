@@ -3,7 +3,8 @@
 Usage
 -----
 copy and paste bash.snippet.sh >> ~/.bashrc
-
+source ~/.bashrc
+texc file_without_extension
 
 DockerHub
 ----------
